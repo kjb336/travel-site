@@ -505,7 +505,12 @@ img{
 }
 
 .btn--orange{
-        background-color: peru;
+        background-color: #d59541;
+    }
+
+.btn--large{
+        font-size: 1.25rem;
+        padding: 1.1rem 1.rem;
     }
 
 
