@@ -4,8 +4,8 @@
         background-image: url('/assets/images/sprites/sprite-d675eadb.svg');
     }
     .icon--clear-view-escapes {
-        width: 142.4px;
-        height: 59.53px;
+        width: 142px;
+        height: 59px;
         background-position: 0 0 ; 
     }
     .icon--comment {
@@ -14,8 +14,8 @@
         background-position: 99.70443349753694% 0 ; 
     }
     .icon--facebook {
-        width: 21.23px;
-        height: 42.01px;
+        width: 21px;
+        height: 42px;
         background-position: 26.040607071652357% 45.795830448496034% ; 
     }
     .icon--fire {
@@ -29,8 +29,8 @@
         background-position: 27.586206896551722% 99.56481481481481% ; 
     }
     .icon--instagram {
-        width: 42.01px;
-        height: 42.01px;
+        width: 42px;
+        height: 42px;
         background-position: 63.2917018534157% 49.234556504346486% ; 
     }
     .icon--mail {
@@ -49,8 +49,8 @@
         background-position: 59.11330049261084% 99.56481481481481% ; 
     }
     .icon--twitter {
-        width: 51.78px;
-        height: 42.06px;
+        width: 51px;
+        height: 42px;
         background-position: 94.04330452560171% 98.50700323226104% ; 
     }
     .icon--wifi {
@@ -59,7 +59,7 @@
         background-position: 68.79227053140097% 0 ; 
     }
     .icon--youtube {
-        width: 34.75px;
+        width: 34px;
         height: 42px;
         background-position: 36.69752421959096% 45.792307692307695% ; 
     }
